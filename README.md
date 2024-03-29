@@ -16,7 +16,7 @@
 
 - ### [Healthcare Projects](https://github.com/etonjoe/healthcare_projects) 
 - ### [Finance Projects](https://github.com/etonjoe/Finance_projects) 
-- ### [Marketing Project](www.healthcare.com) 
+- ### [Marketing Project](https://github.com/etonjoe/Marketing_project) 
 - ### [Other projects](www.healthcare.com) 
 
 
