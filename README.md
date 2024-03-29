@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently working on various projects 
 - 👯 I’m available for collaborate on various data projects and research
-- 💬 Ask me about: Life is simple, lets make it very simple
+- 💬 Ask me about: Data extraction, transformation and loading (ETL). Data computing, storage, and security.
 - 📫 How to reach me: joseph.eton@hotmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: In God I believe but for others, they must come with their data. - W. Edwards Deming
