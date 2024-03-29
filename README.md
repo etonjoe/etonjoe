@@ -1,4 +1,4 @@
-## Hi there 👋
+### About me! 👋
 - 🌱 I’m currently working on various projects 
 - 👯 I’m available for collaborate on various data projects and research
 - 💬 Ask me about: Life is simple, lets make it very simple
