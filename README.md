@@ -13,7 +13,7 @@
 
 ## Notable repositories
 
-## Healthcare Projects *Finance Projects *Marketing Project *Other projects
+## -Healthcare Projects -Finance Projects -Marketing Project -Other projects
 
 
 
