@@ -14,7 +14,7 @@
 
 ## Notable repositories
 
-- ### [Healthcare Projects](www.healthcare.com) 
+- ### [Healthcare Projects](https://github.com/etonjoe/healthcare_projects) 
 - ### [Finance Projects](www.healthcare.com) 
 - ### [Marketing Project](www.healthcare.com) 
 - ### [Other projects](www.healthcare.com) 
