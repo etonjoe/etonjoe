@@ -1,5 +1,10 @@
-### Hi there 👋
-
+## Hi there 👋
+- 🌱 I’m currently working on various projects 
+- 👯 I’m available for collaborate on various data projects and research
+- 💬 Ask me about: Life is simple, lets make it very simple
+- 📫 How to reach me: joseph.eton@hotmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: In God I believe but for others, they must come with their data. - W. Edwards Deming
 <!--
 **etonjoe/etonjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
