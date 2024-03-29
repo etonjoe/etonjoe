@@ -6,11 +6,16 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: In God I believe but for others, they must come with their data. - W. Edwards Deming
 
-- ## Repositories worth your time
+
+## Repositories worth your time
 - Customer churn
 - Fraud detection
 
 ## Notable repositories
+
+## Healthcare Projects ## Finance Projects ## Marketing Project ## Other projects
+
+
 
 <!--
 **etonjoe/etonjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
