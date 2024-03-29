@@ -5,7 +5,7 @@
 - 💬 Ask me about: Data extraction, transformation and loading (ETL). Data computing, storage, and security.
 - 📫 How to reach me: joseph.eton@hotmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: In God I believe but for others, they must come with their data. - W. Edwards Deming
+- ⚡ Fun fact: **In God I believe but for others, they must come with their data. - W. Edwards Deming**
 
 
 ## Repositories worth your time
