@@ -13,6 +13,8 @@
 |------|--------------------|
 |Cloud platforms| AWS, GCP, Microsoft Azure, and IBM|
 |Integration| ETL, ELT, SSIS, AWS Glue|
+|Ingestions|
+|Visualization| Tableau, QlikView, Zeppelin, R, Python (matplotlib, seaborn), Power BI|
 
 ## Repositories worth your time
 - Customer churn
