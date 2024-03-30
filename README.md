@@ -3,7 +3,6 @@
 - ✨ 15+ years experience, working with various [organizations](https://github.com/etonjoe/work_organizations) across different sectors.
 - 💬 Ask me about: Data extraction, transformation and loading (ETL). Data computing, storage, and security.
 - 👯 I’m available for collaborate on various data projects and research
-- 🌱 I’m currently working on various projects
 - 📫 How to reach me: [Just email me](eton.joseph@gmail.com)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: **In God I believe but for others, they must come with their data. - W. Edwards Deming**
