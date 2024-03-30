@@ -1,5 +1,5 @@
 # About me! 👋
-### Data Scientist | Data Analyst | Data Engineer | SQL/Power BI Developer
+#### Data Scientist | Data Analyst | Data Engineer | SQL/Power BI Developer
 
 - ✨ 15+ years experience, working with various [organizations](https://github.com/etonjoe/work_organizations) across different sectors.
 - 💬 Ask me about: Data extraction, transformation and loading (ETL). Data computing, storage, and security.
@@ -8,6 +8,11 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: **In God I believe but for others, they must come with their data. - W. Edwards Deming**
 
+## Technical Snapshot
+|Skills | Tools & Technology | 
+|------|--------------------|
+|Cloud platforms| AWS, GCP, Microsoft Azure, and IBM|
+|Integration| ETL, ELT, SSIS, AWS Glue|
 
 ## Repositories worth your time
 - Customer churn
