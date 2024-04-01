@@ -5,7 +5,6 @@
 - 💬 Ask me about: Data extraction, transformation and loading (ETL). Data computing, storage, and security.
 - 👯 I’m available for collaborate on various data projects and research
 - 📫 How to reach me: [Just email me](eton.joseph@gmail.com)
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: **In God I believe but for others, they must come with their data. - W. Edwards Deming**
 
 ## Technical Snapshot
@@ -13,8 +12,11 @@
 |------|--------------------|
 |Cloud platforms| AWS, GCP, Microsoft Azure, and IBM|
 |Integration| ETL, ELT, SSIS, AWS Glue|
-|Ingestions|
-|Visualization| Tableau, QlikView, Zeppelin, R, Python (matplotlib, seaborn), Power BI|
+|Programming Lanaguages|Python, SQL, R, Scala, Java Script|
+|Databases|SQL Server, Amazon Bucket (S3), Postgresl|
+|Visualization| Tableau, QlikView, Zeppelin, R, Python (matplotlib, seaborn), Power BI, Looker, fusion charts|
+|Big Data tools|Apache Hadoop, Apahce Spark|
+|Ingestion/Streaming platforms|Spark, storm, kafka, flume, flink|
 
 ## Repositories worth your time
 - Customer churn
