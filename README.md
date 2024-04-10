@@ -13,7 +13,7 @@
 |Cloud platforms| AWS, GCP, Microsoft Azure, and IBM|
 |Integration| ETL, ELT, SSIS, AWS Glue|
 |Programming Lanaguages|Python, SQL, R, Scala, Java Script|
-|Databases|SQL Server, Amazon Bucket (S3), Postgresl|
+|Databases|SQL Server, Amazon Bucket (S3), Postgresql|
 |Visualization| Tableau, QlikView, Zeppelin, R, Python (matplotlib, seaborn), Power BI, Looker, fusion charts|
 |Big Data tools|Apache Hadoop, Apahce Spark|
 |Ingestion/Streaming platforms|Spark, storm, kafka, flume, flink|
