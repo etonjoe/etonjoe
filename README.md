@@ -1,7 +1,7 @@
 # About me! 👋
-#### Data Scientist | Data Analyst | Data Engineer | SQL/Power BI Developer
+#### Data Scientist | Data Analyst | Data Engineer | SQL/Power BI Developer | AI/LLM/Agentic AI
 
-- ✨ 15+ years experience, working with various [organizations](https://github.com/etonjoe/work_organizations) across different sectors.
+- ✨ 15+ years experience, working with various [organizations](https://github.com/etonjoe/work_organizations) across different sectors. I hold a Master’s in Applied Data Science from the University of Sunderland
 - 💬 Ask me about: Data extraction, transformation and loading (ETL). Data computing, storage, and security.
 - 👯 I’m available for collaborate on various data projects and research
 - 📫 How to reach me: [Just email me](eton.joseph@gmail.com)
